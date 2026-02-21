@@ -4,3 +4,8 @@ google-generativeai
 python-dotenv
 requests
 tweepy
+Mastodon.py
+atproto
+facebook-sdk
+flask
+pyinstaller
