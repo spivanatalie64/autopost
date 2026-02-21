@@ -1,0 +1,6 @@
+customtkinter
+apscheduler
+google-generativeai
+python-dotenv
+requests
+tweepy
