@@ -40,3 +40,14 @@ A modern Windows application that uses Gemini AI to generate and schedule social
 
 ## Developer Note
 This app is designed to be "set and forget." It will automatically recalculate its 3 random daily posts every day it remains running.
+---
+
+## 🤖 Pullfrog AI Review
+
+This repository uses **Pullfrog AI** to automatically review pull requests.
+
+Pullfrog is an AI-powered code review agent that analyzes every PR for code quality,
+security issues, performance problems, and best practice violations. Reviews appear
+as inline PR comments and checks. Trigger manually by commenting `@pullfrog` on any PR.
+
+Powered by OpenRouter.
